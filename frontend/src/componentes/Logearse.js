@@ -90,12 +90,6 @@ const Logearse = () => {
                 </div>
             </div>
         </div>
-
-
-
-
-
-       
     );
 };
 
